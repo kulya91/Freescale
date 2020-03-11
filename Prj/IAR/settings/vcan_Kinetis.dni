@@ -1,0 +1,71 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[JLinkDriver]
+CStepIntDis=_ 0
+LeaveTargetRunning=_ 0
+TraceBufferSize=0x00010000
+TraceStallIfFIFOFull=0x00000000
+TracePortSize=0x00000004
+[DebugChecksum]
+Checksum=1719402944
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[FlashMemory]
+FlashEraseSelection=0 1     
+[watch_formats]
+Fmt0={W}42:right_line	3	0
+[Trace1]
+Enabled=0
+ShowSource=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[DriverProfiling]
+Enabled=0
+Mode=1
+Graph=0
+Symbiont=0
+Exclusions=
+[CallStackLog]
+Enabled=0
+[CallStackStripe]
+ShowTiming=1
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Bp0=_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\..\..\..\朱文旭的大电脑\Desktop\程序\程序\程序}.16.1" 0 0 1 "" 0 "" 0
+Count=1
+[Aliases]
+A0=_ "C:\Users\Think\Desktop\k60花\南京理工大学泰州科技学院-光电四轮-蒙牛队2.0\蒙牛队技术报告2.0\蒙牛队最终比赛程序\Chip\src\IAR\startup_MK60DZ10.s" ""
+A1=_ "C:\Users\Think\Desktop\勇者无敌一队比赛程序 - 副本\Chip\src\IAR\startup_MK60DZ10.s" ""
+A2=_ "C:\Users\Think\Desktop\勇者无敌一队比赛程序\Board\src\VCAN_LCD.c" ""
+A3=_ "C:\Users\Think\Desktop\勇者无敌一队比赛程序\Chip\src\MK60_dma.c" ""
+A4=_ "C:\Users\Think\Desktop\勇者无敌一队比赛程序\Chip\src\MK60_ftm.c" ""
+A5=_ "C:\Users\Think\Desktop\勇者无敌一队比赛程序\Chip\src\MK60_gpio.c" ""
+A6=_ "C:\Users\Think\Desktop\勇者无敌一队比赛程序\Chip\src\MK60_mcg.c" ""
+A7=_ "C:\Users\Think\Desktop\勇者无敌一队比赛程序\Chip\src\MK60_uart.c" ""
+A8=_ "C:\Users\hhh\Desktop\新建文件夹 (2)\程序\程序\App\main.c" ""
+A9=_ "C:\Users\朱文旭的大电脑\Desktop\k60\比赛程序 - 圆环第二种\aaaa\App\main.c" ""
+A10=_ "C:\Users\朱文旭的大电脑\Desktop\比赛程序 - 圆环第二种\aaaa\Chip\src\IAR\startup_MK60DZ10.s" ""
+A11=_ "C:\Users\朱文旭的大电脑\Desktop\程序\程序\程序\Chip\src\IAR\startup_MK60DZ10.s" ""
+Count=12
+SuppressDialog=1

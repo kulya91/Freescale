@@ -1,0 +1,17 @@
+"E:\aastudy\iar\arm\bin\armproc.dll" 
+
+"E:\aastudy\iar\arm\bin\armjlink2.dll" 
+
+"C:\Users\hhh\Desktop\新建文件夹 (2)\程序\程序\Prj\IAR\FN15_Release\Exe\vcan_Kinetis.out" 
+
+--plugin "E:\aastudy\iar\arm\bin\armbat.dll" 
+
+--device_macro "E:\aastudy\iar\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "E:\aastudy\iar\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader "E:\aastudy\iar\arm\config\flashloader\NXP\FlashK60Fxxx128K.board" 
+
+
+
+

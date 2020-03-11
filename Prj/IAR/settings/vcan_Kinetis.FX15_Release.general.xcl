@@ -1,0 +1,17 @@
+"C:\IAR安装\arm\bin\armproc.dll" 
+
+"C:\IAR安装\arm\bin\armjlink2.dll" 
+
+"C:\Users\朱文旭的大电脑\Desktop\勇者无敌一队比赛程序 - 副本\勇者无敌一队比赛程序\Prj\IAR\FX15_Release\Exe\vcan_Kinetis.out" 
+
+--plugin "C:\IAR安装\arm\bin\armbat.dll" 
+
+--device_macro "C:\IAR安装\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "C:\IAR安装\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader "C:\IAR安装\arm\config\flashloader\Freescale\FlashK60Fxxx128K.board" 
+
+
+
+
